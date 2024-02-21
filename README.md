@@ -26,6 +26,18 @@ This document outlines the essential tasks required for creating a simulation wo
   - Import at least one model from the Gazebo online library.
   - Implement the imported model in your existing Gazebo world.
 
+    - Created by me:
+      - Building/robohouse
+      - arm
+      - robot
+    - Came with gazebo:
+      - cafe_table
+    - From osrf (https://github.com/osrf/gazebo_models)
+      - arrow_red
+      - oak_tree
+      - table
+      - table_marble
+
 ### 5. Write a C++ World Plugin
 - **Requirements:**
   - Develop a C++ World Plugin to interact with your Gazebo world.
